@@ -1,0 +1,12 @@
+Django
+psycopg2
+docutils
+requests
+south
+BeautifulSoup
+simplejson
+dj-database-url
+lxml
+newrelic
+django-ratchet
+
